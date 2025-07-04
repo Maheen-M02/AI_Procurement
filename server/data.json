@@ -1,0 +1,10 @@
+{
+  "product": "Glass Bottle",
+  "rawMaterials": [
+    { "name": "Silica", "quantity": 10, "costPerUnit": 5 },
+    { "name": "Soda Ash", "quantity": 4, "costPerUnit": 3 }
+  ],
+  "unitsProduced": 100,
+  "unitsSold": 80,
+  "salePricePerUnit": 25
+}
